@@ -5,4 +5,4 @@
 ### 安装Python
 **Pixel++** 使用Python编写,**Python** 作为一种解释性语言,需要您事先安装软件所需的运行环境.
 #### 官网安装
-请[点击我](https://www.python.org/"Python官网")进入Python官网
+请[点击我](https://www.python.org/)进入Python官网
